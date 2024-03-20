@@ -37,7 +37,7 @@
 import random
 import requests
 # اینو درپیوی ارسال کنید
-code ="""
+bog ="""
 
 @report
 #filtering-rubika-yftt20
